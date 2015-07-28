@@ -5,4 +5,6 @@ describe Ship do
     ship = Ship.new(position: 'A1')
     expect(ship.position).to eq('A1')
   end
+
+
 end
